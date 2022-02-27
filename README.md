@@ -16,16 +16,6 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 
 A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
-## Template da aplicação
-
-Para realizar esse desafio, criamos para você esse modelo que você deve utilizar como um template do GitHub.
-
-O template está disponível na seguinte URL: 
-
-[GitHub - rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras](https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras)
-
-**Dica**: Caso não saiba utilizar repositórios do GitHub como template, temos um guia em **[nosso FAQ](https://www.notion.so/FAQ-Desafios-ddd8fcdf2339436a816a0d9e45767664).**
-
 ## Se preparando para o desafio
 
 Para esse desafio, além dos conceitos vistos em aula utilizaremos algumas coisa novas para deixar a nossa aplicação ainda melhor. Por isso, antes de ir diretamente para o código do desafio, explicaremos um pouquinho de:
@@ -228,14 +218,5 @@ Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao f
 
 [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f166455c-a42f-4d25-8baa-a6686a3cb476/challenge.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f166455c-a42f-4d25-8baa-a6686a3cb476/challenge.mp4)
 
-# 📅 Entrega
-
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o link do repositório que você fez suas alterações. Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no Linkedin é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
-# Solução do desafio
-
-Caso você queira ver como resolver o desafio, fizemos um vídeo explicando o passo a passo para cumprir com todos os requisitos da aplicação:
-
-[https://youtu.be/NTeUIfUtKWw](https://youtu.be/NTeUIfUtKWw)
 
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
